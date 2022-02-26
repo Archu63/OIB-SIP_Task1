@@ -1,0 +1,68 @@
+header
+{
+    margin-top:0px;
+    margin-bottom:auto;
+    width:100%;
+   font-size:20;
+   word-spacing:20px;
+}
+#logo{
+font-size:30;
+margin-right:800px;
+font-family:Lucida Calligraphy;
+color:brown;
+}
+a:hover{
+opacity:0.9;
+transform:transiateY(-2.5%);
+box-shadow:0 0 15px 0 #000;
+}
+#main
+{
+margin-right:auto;
+margin-top:30px;
+margin-left:auto;
+margin-bottom:25px;
+width:80%;
+padding:100px;
+}
+h
+{
+font-size:40px;
+color:red;
+}
+p
+{
+    font-size:25px;
+    color:black;
+}
+img
+{
+    width:80%;   
+   height:280px;
+border-radius:50px;
+}
+#about{
+text-align:left;
+width:60%
+}
+button
+{
+    display:block;
+    justify-content:center;
+    width:20%;
+    height:30px;
+    color:white;
+cursor:pointer;
+background-color:black;
+}
+button:hover{
+opacity:0.9;
+transform:transiateY(-2.5%);
+box-shadow:0 0 15px 0 #000;
+}
+img:hover{
+opacity:0.9;
+transform:transiateY(-2.5%);
+box-shadow:0 0 15px 0 white;
+}
